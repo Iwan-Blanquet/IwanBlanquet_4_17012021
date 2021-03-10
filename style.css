@@ -305,6 +305,8 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    height: 40px;
+    width: 220px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -803,7 +805,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C84D14;
     color: #FFFFFF!important;
 }
 
@@ -1054,4 +1056,8 @@ h4 {
         text-align: center;
     }
 }
-.img-responsive portfolio-thumb
+
+.image-resize-mode {
+    height: 100px;
+    width: 100px;
+}
