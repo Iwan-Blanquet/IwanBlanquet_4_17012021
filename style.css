@@ -799,6 +799,12 @@ h4 {
     line-height: 1.4em;
 }
 
+.tc-white-large--color {
+    color: #F6B292!important;
+    font-size: 22px;
+    line-height: 1.4em;
+}
+
 .btn-atomic-tangerine {
     background: #C84D14;
     color: #FFFFFF!important;
